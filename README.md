@@ -28,5 +28,9 @@ Dieses Tool ist Open Source und darf gerne geteilt oder auf eigenen Webseiten ei
 
 **[fragklar.de](https://fragklar.de)**
 
+## 📖 Hintergrund & Deep-Dive
+Warum brauchen wir 2026 neue Strom-Rechner? In diesem Artikel auf Medium erfährst du mehr über die versteckten Stromfresser der Zukunft (wie lokale KI-Hardware und induktives Laden) und die Philosophie hinter diesem Tool:
+
+👉 **[Stromrechnung 2026: Warum dein KI-PC teurer ist, als du denkst](https://medium.com/@fragklar/stromrechnung-2026-warum-dein-ki-pc-und-das-handy-laden-teurer-sind-als-du-denkst-140332eea29f)**
 ---
 *Erstellt für die Tech-Community 2026 – Gemeinsam Komplexität abbauen.*
